@@ -53,5 +53,15 @@ Next, we can showcase the percentage of overall fares, percentage of rides, and 
 
 ![Fig7](https://user-images.githubusercontent.com/101564349/168474766-2d52e682-73c9-415a-abfb-2b37de2be335.png)
 
+Lastly, we produced a multiple-line chart that analyzed the fare data over the months of Janurary to early May of 2019. The line chart below displays the relationship between the total fare by city type versus time. The data remains consistent with our previous analysis - maintaining the fact that Urban cities have the largest total fare accumulutation, then suburban, and lastly rural. 
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/101564349/168494930-347ae8ab-60b2-4649-bf9a-c4fc8c73eb87.png)
+
 
 ## Summary
+
+Based on the analysis above, the following recommendations could be made to address any disparities among the city types:
+
+* Looking at the average fares of each city type, rural cities have the higher average fare. To bring the average fare down to a more affordable rate, a recommendation would be to increase the drivers in rural locations in order to provide more rides while still being profitable. This can be done through an incentive program that would increase desire for more individuals to become drivers.
+* While the average fare is lower for urban cities, there could be a future driver retention problem since they may not be making as much of a profit. This can be combatted by increasing the amount of rides (customers) through discounts and strong advertisements. 
+* Further analysis can be done on the demographic of riders and drivers in each city type to provide further insight into how to properly market PyBer.
