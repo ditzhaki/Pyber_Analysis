@@ -37,11 +37,21 @@ Our analysis tells us that the Urban city with the highest rider count is West A
 
 ![Fig2](https://user-images.githubusercontent.com/101564349/168472326-c44cbca8-031e-450c-8b18-0f56549d229a.png)
 
+The relationship between the number of drivers per city type can be viewed in the box-and-whisker plot below. In this plot, we can see that the average number of drivers in rural cities is approximately 9 times less per city than in Urban cities and approximately 4 times less per city than in suburban cities. 
+
+![Fig4](https://user-images.githubusercontent.com/101564349/168474357-02f3c6c0-1101-4819-a40a-e4f907517031.png)
+
 We can also view the relationship between the Fare per city type via a box-and-whisker plot. The plot below shows us that there are no outliers however, we can see that the average fare for rides in rural cities is around $11 more than urban cities and around $5 more than suburban cities. This can be due to the fact that there aren't as many drivers or rides in rural cities, and therefore it is more costly. 
 
 ![Fig3](https://user-images.githubusercontent.com/101564349/168473159-9c7dbc1a-5179-4c46-9ed9-4d49fbb17069.png)
 
-_Describe the differences in ride-sharing data among the different city types using images from the summary dataframe and multiple-line chart_
+Next, we can showcase the percentage of overall fares, percentage of rides, and percentage of the total drivers for each city type in pie charts. Each pie chart displays a consistent trend in which the percentages are highest for urban cities and lowest for rural cities, with suburban cities falling in between. From these pie charts, we can see that urban cities make up the majority of all fares for PyBer at 62.7%. This comes as no surprise as our analysis shows that Urban cities have the most drivers and rides at 80.9% and 68.4%, respectively. 
+
+![Fig5](https://user-images.githubusercontent.com/101564349/168474754-a064ef85-73d8-44dd-a6ae-9410530c9f87.png)
+
+![Fig6](https://user-images.githubusercontent.com/101564349/168474758-d61a180f-8d9c-4d9b-a124-a025e0bdc7d3.png)
+
+![Fig7](https://user-images.githubusercontent.com/101564349/168474766-2d52e682-73c9-415a-abfb-2b37de2be335.png)
 
 
 ## Summary
